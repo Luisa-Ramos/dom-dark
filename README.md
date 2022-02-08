@@ -6,8 +6,8 @@ Feito com HTML, Bootstrap 5.0 e JS
 
 ## Dark Mode
 
-![image] (https://github.com/Luisa-Ramos/dom-dark/blob/master/images/dark.png)
+![image](https://github.com/Luisa-Ramos/dom-dark/blob/master/images/dark.png)
 
 ## Light Mode
 
-![image] (https://github.com/Luisa-Ramos/dom-dark/blob/master/images/light.png)
+![image](https://github.com/Luisa-Ramos/dom-dark/blob/master/images/light.png)
